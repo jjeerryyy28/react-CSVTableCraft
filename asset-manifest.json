@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-CSVTableCraft.git/static/css/main.d2f6c3a1.css",
+    "main.js": "/react-CSVTableCraft.git/static/js/main.09c706df.js",
+    "static/js/787.93fada1f.chunk.js": "/react-CSVTableCraft.git/static/js/787.93fada1f.chunk.js",
+    "static/media/mask.svg": "/react-CSVTableCraft.git/static/media/mask.ac942cf2852201399b4c58d8ea098746.svg",
+    "static/media/upload.png": "/react-CSVTableCraft.git/static/media/upload.bff70fda1c1ec3df4aac.png",
+    "static/media/setting.png": "/react-CSVTableCraft.git/static/media/setting.d1500882d97c59ad4e16.png",
+    "static/media/schedule.png": "/react-CSVTableCraft.git/static/media/schedule.b65aa2890a95740f906b.png",
+    "static/media/frame-2.svg": "/react-CSVTableCraft.git/static/media/frame-2.01f71fd1e8a6492c77a3438ef103dd29.svg",
+    "static/media/excel.svg": "/react-CSVTableCraft.git/static/media/excel.c9d39902f455319a82c8e496622393eb.svg",
+    "static/media/google-icon-1.svg": "/react-CSVTableCraft.git/static/media/google-icon-1.7bfeed2eba008bd2354f7f08bf81f459.svg",
+    "static/media/Vector-1.svg": "/react-CSVTableCraft.git/static/media/Vector-1.4adcee0464508167cad75ef27dfbc200.svg",
+    "static/media/apple-1.svg": "/react-CSVTableCraft.git/static/media/apple-1.7cb7fa7bb64db6fb7fe2c9f3d9c920f9.svg",
+    "static/media/Subtract.svg": "/react-CSVTableCraft.git/static/media/Subtract.b932633d901601f9f00a6c68f784a22f.svg",
+    "index.html": "/react-CSVTableCraft.git/index.html",
+    "static/media/icon.svg": "/react-CSVTableCraft.git/static/media/icon.66ca1c0c3b65e7659fbf2558d3707d46.svg",
+    "static/media/vector-7.svg": "/react-CSVTableCraft.git/static/media/vector-7.09b7832719b52b5cccecad396503ebf7.svg",
+    "static/media/left-side.svg": "/react-CSVTableCraft.git/static/media/left-side.c313fe0a2a1e3ae71835.svg",
+    "main.d2f6c3a1.css.map": "/react-CSVTableCraft.git/static/css/main.d2f6c3a1.css.map",
+    "main.09c706df.js.map": "/react-CSVTableCraft.git/static/js/main.09c706df.js.map",
+    "787.93fada1f.chunk.js.map": "/react-CSVTableCraft.git/static/js/787.93fada1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2f6c3a1.css",
+    "static/js/main.09c706df.js"
+  ]
+}
