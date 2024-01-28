@@ -1,0 +1,479 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.sign-in {
+    background-color: #f8faff;
+    height: 1024px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+}
+
+.sign-in .overlap {
+    background-color: #f8faff;
+    height: 1024px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.sign-in .overlap-group {
+    background-image: url(../../images/left-side.svg);
+    background-size: 100% 100%;
+    height: 1024px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 720px;
+}
+
+.sign-in .text-wrapper {
+    color: #ffffff;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 72px;
+    font-weight: 700;
+    left: 196px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 461px;
+}
+
+.sign-in .frame {
+    height: 48px;
+    left: 144px;
+    position: absolute;
+    top: 909px;
+    width: 299px;
+}
+
+.sign-in .div {
+    height: 80px;
+    left: 58px;
+    position: absolute;
+    top: 54px;
+    width: 86px;
+}
+
+.sign-in .ellipse {
+    background-color: #fcfcff;
+    border-radius: 40.08px;
+    height: 80px;
+    left: 3px;
+    position: absolute;
+    top: 0;
+    width: 80px;
+}
+
+.sign-in .vector {
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 26px;
+    width: 86px;
+}
+
+.sign-in .login-form {
+    height: 391px;
+    left: 813px;
+    position: absolute;
+    top: 399px;
+    width: 435px;
+}
+
+.login-form {
+    position: fixed;
+    border-radius: 20px;
+    height: 348px;
+    top: 398.88px;
+    left: 813.18;
+    width: 423px;
+    /* border: 1px solid red; */
+}
+
+.form {
+    background-color: #ffffff;
+    position: relative;
+    font-family: 'Lato', sans-serif;
+    width: 433.64px;
+    height: 347.99px;
+    border-radius: 20px;
+}
+
+.email {
+    width: 105.38px;
+    height: 20.86px;
+    position: absolute;
+    top: 32.82px;
+    left: 36.11px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.2px;
+}
+
+.email-input {
+    width: 356.77px;
+    height: 43.91px;
+    position: relative;
+    top: 43.11px;
+    left: 15px;
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.password {
+    width: 105.38px;
+    height: 20.86px;
+    position: absolute;
+    top: 140.82px;
+    left: 36.11px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.2px;
+}
+
+.password-input {
+    width: 356.77px;
+    height: 43.91px;
+    position: relative;
+    top: 70.11px;
+    left: 15px;
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+
+.forgot {
+    position: relative;
+    top: 90px;
+    left: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.email-sign-in {
+    position: relative;
+    top: 125px;
+    left: 20px;
+    width: 356.77px;
+    height: 43.91px;
+    border-radius: 10px;
+    background-color: #5784db;
+    border: none;
+    outline: none;
+    font: "Montserrat";
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19.5px;
+    color: #ffffff;
+}
+
+.forgot,
+.register-link a {
+    text-decoration: none;
+    color: #5784db;
+}
+
+.sign-in .overlap-2 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 348px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 423px;
+}
+
+.sign-in .div-wrapper {
+    background-color: var(--background);
+    border-radius: 10px;
+    height: 44px;
+    left: 33px;
+    position: absolute;
+    top: 65px;
+    width: 357px;
+}
+
+.sign-in .text-wrapper-2 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+    width: 156px;
+}
+
+.sign-in .overlap-3 {
+    background-color: var(--field-color-darker);
+    border-radius: 10px;
+    height: 44px;
+    left: 33px;
+    position: absolute;
+    top: 162px;
+    width: 357px;
+}
+
+.sign-in .text-wrapper-3 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+    width: 82px;
+}
+
+.sign-in .line {
+    height: 20px;
+    left: 99px;
+    object-fit: cover;
+    position: absolute;
+    top: 12px;
+    width: 1px;
+}
+
+.sign-in .button-sign-in {
+    height: 44px;
+    left: 33px;
+    position: absolute;
+    top: 271px;
+    width: 359px;
+}
+
+.sign-in .overlap-group-2 {
+    height: 44px;
+    position: relative;
+    width: 357px;
+}
+
+.sign-in .button-primary {
+    height: 44px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 357px;
+}
+
+.sign-in .button-primary-2 {
+    background-color: #605bff;
+    border-radius: 10px;
+    height: 44px;
+}
+
+.google-sign-in {
+    height: 33px;
+    left: 813px;
+    position: absolute;
+    top: 339px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+}
+
+.overlap-4 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 33px;
+    position: relative;
+    width: 198px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.google-sign-in img {
+    margin-right: 10px; /* Adjust the margin as needed for the desired space */
+}
+
+.google-sign-in button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: #fff;
+}
+
+.sign-in .text-wrapper-5 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 33px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 33px;
+    width: 105px;
+}
+
+.sign-in .text-wrapper-6 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 33px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 131px;
+    width: 75px;
+}
+
+.sign-in .text-wrapper-7 {
+    color: var(--link);
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 34px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 228px;
+    width: 136px;
+}
+
+.register-link {
+    text-decoration: none !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+}
+
+.sign-in .span {
+    color: #848484;
+}
+
+.sign-in .text-wrapper-8 {
+    color: #346ad4;
+}
+
+.sign-in .google-sign-in {
+    height: 33px;
+    left: 813px;
+    position: absolute;
+    top: 339px;
+    width: 200px;
+}
+
+.sign-in .overlap-4 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 33px;
+    position: relative;
+    width: 198px;
+}
+
+.sign-in .text-wrapper-9 {
+    color: var(--secondary-text);
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 16px;
+    left: 47px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 9px;
+    width: 130px;
+}
+
+.sign-in .google-icon {
+    height: 15px;
+    left: 21px;
+    position: absolute;
+    top: 9px;
+    width: 15px;
+}
+
+.sign-in .apple-sign-in {
+    height: 33px;
+    left: 1038px;
+    position: absolute;
+    top: 339px;
+    width: 200px;
+}
+
+.sign-in .text-wrapper-10 {
+    color: var(--secondary-text);
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 16px;
+    left: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 9px;
+    width: 121px;
+}
+
+.sign-in .apple {
+    height: 15px;
+    left: 26px;
+    position: absolute;
+    top: 8px;
+    width: 13px;
+}
+
+.sign-in .text-wrapper-11 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    left: 813px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 234px;
+    width: 144px;
+}
+
+.sign-in .p {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 813px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 288px;
+    width: 177px;
+}
+
+.sign-in .subtract {
+    height: 1px;
+    left: 1620px;
+    object-fit: cover;
+    position: absolute;
+    top: 216px;
+    width: 1px;
+}
+
+.google-sign-in button:hover {
+    background-color: transparent;
+    cursor: pointer;
+}

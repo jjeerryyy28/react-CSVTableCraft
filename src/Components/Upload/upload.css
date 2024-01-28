@@ -1,0 +1,388 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600&display=swap');
+
+.upload {
+    background-color: #fafafb;
+    height: 1024px;
+    position: relative;
+    width: 100vw;
+}
+
+.upload .overlap {
+    height: 34px;
+    left: 248px;
+    position: absolute;
+    top: 49px;
+    width: 1162px;
+}
+
+.group-3{
+    text-align: center;
+}
+
+.upload .group {
+    height: 33px;
+    left: 866px;
+    position: absolute;
+    top: 1px;
+    width: 296px;
+}
+
+.upload .search-bar {
+    height: 33px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 198px;
+}
+
+.upload .mask-group-instance {
+    left: 266px !important;
+    top: 1px !important;
+}
+
+.upload .vector {
+    height: 23px;
+    left: 220px;
+    position: absolute;
+    top: 5px;
+    width: 18px;
+}
+
+.upload .frame {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 16px;
+    justify-content: center;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+
+.upload .frame-wrapper {
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 630px;
+    position: relative;
+    width: 1052px;
+}
+
+.upload .div-wrapper {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 4px;
+    position: relative;
+}
+
+.upload .text-wrapper {
+    color: #000000;
+    font-family: var(--paragraph-UI-type-text-2xl-s-font-family);
+    font-size: var(--paragraph-UI-type-text-2xl-s-font-size);
+    font-style: var(--paragraph-UI-type-text-2xl-s-font-style);
+    font-weight: var(--paragraph-UI-type-text-2xl-s-font-weight);
+    letter-spacing: var(--paragraph-UI-type-text-2xl-s-letter-spacing);
+    line-height: var(--paragraph-UI-type-text-2xl-s-line-height);
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+    font-weight: 600;
+    width: 133px;
+    height: 32px;
+    font-size: 24px;
+    line-height: 32px;
+    font-family: 'Figtree', sans-serif;
+}
+
+.upload .menu {
+    background-color: #ffffff;
+    height: 1047px;
+    left: 0;
+    position: absolute;
+    top: -1px;
+    width: 218px;
+}
+
+.upload .menu-name {
+    height: 425px;
+    left: 0;
+    position: absolute;
+    top: 143px;
+    width: 154px;
+}
+
+.upload .settings {
+    height: 26px;
+    left: 31px;
+    position: absolute;
+    top: 399px;
+    width: 101px;
+}
+
+.upload .div {
+    color: var(--text);
+    font-family: "Nunito-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.5;
+    position: absolute;
+    top: 2px;
+}
+
+.upload .img {
+    height: 26px;
+    left: 0;
+    position: absolute;
+    top: -3px;
+    width: 24px;
+}
+
+.upload .notification {
+    height: 26px;
+    left: 31px;
+    position: absolute;
+    top: 332px;
+    width: 125px;
+}
+
+.upload .group-2 {
+    height: 26px;
+    left: 31px;
+    position: absolute;
+    top: 266px;
+    width: 104px;
+}
+
+.upload .frame-2 {
+    align-items: center;
+    display: inline-flex;
+    gap: 14px;
+    position: relative;
+}
+
+.upload .calendar {
+    /* background-image: url(./calendar.png); */
+    background-size: 100% 100%;
+    height: 26.43px;
+    position: relative;
+    width: 24px;
+}
+
+.upload .messages {
+    height: 22px;
+    margin-right: -2px;
+    position: relative;
+    width: 68px;
+}
+
+.upload .text-wrapper-2 {
+    color: var(--text);
+    font-family: "Nunito-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+}
+
+.upload .schedule {
+    height: 26px;
+    left: 31px;
+    position: absolute;
+    top: 199px;
+    width: 108px;
+}
+
+.upload .invoice {
+    height: 24px;
+    left: 31px;
+    position: absolute;
+    top: 135px;
+    width: 91px;
+}
+
+.upload .text-wrapper-3 {
+    color: var(--text);
+    font-family: "Nunito-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 51px;
+}
+
+.upload .iconly-bold-ticket {
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 2px;
+    width: 24px;
+}
+
+.upload .div-2 {
+    height: 96px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 151px;
+}
+
+.upload .analytics {
+    height: 22px;
+    left: 33px;
+    position: absolute;
+    top: 61px;
+    width: 92px;
+}
+
+.upload .chart {
+    /* background-image: url(./chart.svg); */
+    background-size: 100% 100%;
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 20px;
+}
+
+.upload .text-wrapper-4 {
+    color: #605bff;
+    font-family: "Nunito-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+}
+
+.upload .rectangle {
+    background: linear-gradient(180deg, rgb(171.56, 168.94, 255) 0%, rgba(171.56, 168.94, 255, 0) 100%);
+    border-radius: 0px 5px 5px 0px;
+    height: 48px;
+    left: 0;
+    opacity: 0.2;
+    position: absolute;
+    top: 48px;
+    width: 53px;
+}
+
+.upload .text-wrapper-5 {
+    color: #9a9aa9;
+    font-family: "Nunito-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 69px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1px;
+}
+
+.upload .iconly-bold-category {
+    height: 24px;
+    left: 31px;
+    position: absolute;
+    top: 0;
+    width: 24px;
+}
+
+.upload .logo-and-company {
+    height: 42px;
+    left: 56px;
+    position: absolute;
+    top: 51px;
+    width: 113px;
+}
+
+.upload .overlap-group {
+    /* background-image: url(./subtract.svg); */
+    background-size: 100% 100%;
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 42px;
+}
+
+.upload .subtract {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 42px;
+}
+
+.upload .text-wrapper-6 {
+    color: var(--text);
+    font-family: "Nunito-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    left: 57px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 5px;
+}
+
+.input-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    height: 367px;
+    left: 518px;
+    position: absolute;
+    top: 218px;
+    width: 596px;
+}
+
+.input-container .overlap-2{
+    border: 1px dashed black;
+    width: 564px;
+    height: 258px;
+    border-radius: 8px;
+    position: relative;
+    top: 16px;
+    left: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.excel{
+    margin-left: 66px;
+}
+
+.value {
+    width: 564px;
+    height: 56px;
+    position: absolute;
+    top: 295px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 8px;
+    padding: 8px 16px 8px 8px;
+    gap: 8px;
+    background-color: #605bff;
+    cursor: pointer;
+
+}
+
+.value.instant-animation {
+    animation-duration: 0ms;
+}
